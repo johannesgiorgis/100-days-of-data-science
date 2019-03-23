@@ -16,3 +16,12 @@
 
 **Link(s) to work**: 
 1. [Winning Jeopardy Notebook](https://nbviewer.jupyter.org/github/johannesgiorgis/dataquest/blob/master/data_science_path/projects/project16_winning_jeopardy/project16_winning_jeopardy.ipynb)
+
+### Day 3: Thursday, March 22nd, 2019
+
+**Today's Progress**: After a false start on DataQuest's Data Engineering path (_Introduction to Postgres_) due to some technical issues with the website, I worked through the _Introduction to Spark_ mission of the Data Scientist path. I installed and set up Spark on my computer and verified PySpark worked via CLI and Jupyter Notebook.
+
+**Thoughts**: It was great revising my Spark knowledge and getting the chance to use PySpark again. Also `findspark` is a nifty python package for finding the SPARK_HOME environment variable without you having to explicitly call it in your scripts. I look forward to diving deeper into Spark and building applications and pipelines with it.
+
+**Link(s) to work**: 
+1. [Verify Spark Installation via Jupyter Notebook](https://nbviewer.jupyter.org/github/johannesgiorgis/dataquest/blob/master/data_science_path/verify_spark_installation/test_spark_installation.ipynb)
