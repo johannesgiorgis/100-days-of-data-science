@@ -26,7 +26,7 @@
 **Link(s) to work**: 
 1. [Verify Spark Installation via Jupyter Notebook](https://nbviewer.jupyter.org/github/johannesgiorgis/dataquest/blob/master/data_science_path/verify_spark_installation/test_spark_installation.ipynb)
 
-### Day 4: Saturday, March 22nd, 2019
+### Day 4: Saturday, March 23rd, 2019
 
 **Today's Progress**: I finished up DataQuest's _Spark and Map-Reduce_ mission.
 
