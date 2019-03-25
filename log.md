@@ -34,3 +34,15 @@
 
 **Link(s) to work**: 
 1. [DataQuest's Spark & MapReduce Mission](https://app.dataquest.io/course/spark-map-reduce)
+
+### Day 5: Sunday, March 24th, 2019
+
+**Today's Progress**: I worked through the second Data Science Challenges, figuring out how to navigate through multiple pages of PacktPub's All Products pages. I also worked through DataQuest's _Creating Postgres Tables_ course.
+
+**Thoughts**: Figuring out web scraping can be very tedious yet very rewarding once you get it working. Also diving deeper into how to create tables in Psotgres and optimizing for space by choosing the right datasets was a very interesting/valuable lesson.
+
+**Link(s) to work**: 
+1. [Data Science Challenges 2: Web Scraping](https://github.com/johannesgiorgis/ds_challenges/tree/master/02_web_scraping)
+
+
+
