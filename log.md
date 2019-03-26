@@ -44,5 +44,11 @@
 **Link(s) to work**: 
 1. [Data Science Challenges 2: Web Scraping](https://github.com/johannesgiorgis/ds_challenges/tree/master/02_web_scraping)
 
+### Day 6: Monday, March 25th, 2019
 
+**Today's Progress**: I  worked through DataQuest's _Managing Created Tables_ and _Loading and Extracting Data with Tables_ missions.
+
+**Thoughts**: There are so many options when it comes to extracting and loading data into a Postgres DB depending on your purposes and goals - you can do it via python code or SQL, use `INSERT` or `COPY` operations, etc. I look forward to applying these learnings in a hands on projects soon.
+
+**Link(s) to work**: None for today.
 
