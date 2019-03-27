@@ -52,3 +52,10 @@
 
 **Link(s) to work**: None for today.
 
+### Day 7: Tuesday, March 26th, 2019
+
+**Today's Progress**: I  worked through the remainder of DataQuest's _Postgres for Data Engineers_ course. I started working on the Guided Project, which entails building a Postgres Database from a CSV file.
+
+**Thoughts**: Finally having gone through the learning material, it is exciting to get to apply that to building a database from real world data. Also achieved 14% of the Data Engineer path in 5 days! Yay for consistency! Most of the stuff I covered so far wasn't totally new to me, but still looking forward to finishing up this track and start building end to end data pipeline projects.
+
+**Link(s) to work**: None for today.
