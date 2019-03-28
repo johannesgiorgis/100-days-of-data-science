@@ -59,3 +59,12 @@
 **Thoughts**: Finally having gone through the learning material, it is exciting to get to apply that to building a database from real world data. Also achieved 14% of the Data Engineer path in 5 days! Yay for consistency! Most of the stuff I covered so far wasn't totally new to me, but still looking forward to finishing up this track and start building end to end data pipeline projects.
 
 **Link(s) to work**: None for today.
+
+
+### Day 8: Wednesday, March 27th, 2019
+
+**Today's Progress**: I  worked through DataQuest's _Optimizing Postgres Databases_ course, where I learned more about Postgres internal systems and tables.
+
+**Thoughts**: Working through this was a bit of a drag but it was very useful material none the less.
+
+**Link(s) to work**: None for today.
