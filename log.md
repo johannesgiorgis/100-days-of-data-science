@@ -68,3 +68,12 @@
 **Thoughts**: Working through this was a bit of a drag but it was very useful material none the less.
 
 **Link(s) to work**: None for today.
+
+
+### Day 8: Thursday, March 28th, 2019
+
+**Today's Progress**: I  worked through DataQuest's _Debugging Postgres Queries_ course and started working on the _Using an Index_ course. The first course covers the `EXPLAIN` command and how to interpret the results to evalute the performance of our query. The Index course expanded on this by introducing the use of an Index to further optimize our queries.
+
+**Thoughts**: I was already familiar with the `EXPLAIN` command, so this was good review within the context of Postgres.
+
+**Link(s) to work**: None for today.
