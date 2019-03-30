@@ -70,10 +70,19 @@
 **Link(s) to work**: None for today.
 
 
-### Day 8: Thursday, March 28th, 2019
+### Day 9: Thursday, March 28th, 2019
 
 **Today's Progress**: I  worked through DataQuest's _Debugging Postgres Queries_ course and started working on the _Using an Index_ course. The first course covers the `EXPLAIN` command and how to interpret the results to evalute the performance of our query. The Index course expanded on this by introducing the use of an Index to further optimize our queries.
 
 **Thoughts**: I was already familiar with the `EXPLAIN` command, so this was good review within the context of Postgres.
+
+**Link(s) to work**: None for today.
+
+
+### Day 10: Friday, March 29th, 2019
+
+**Today's Progress**: I  finished the _Using an Index_ course I started yesterday as well as the _Advanced Indexing_ course.
+
+**Thoughts**: I dived deeper into further optimizing Postgres queries via Indexing and Multi Column indexing, partial indexing, etc. I enjoy simplifying and speeding up my code when I develop so it's great to learn about the tools that help you achieve something similar with your SQL queries.
 
 **Link(s) to work**: None for today.
