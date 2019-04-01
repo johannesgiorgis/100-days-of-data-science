@@ -86,3 +86,12 @@
 **Thoughts**: I dived deeper into further optimizing Postgres queries via Indexing and Multi Column indexing, partial indexing, etc. I enjoy simplifying and speeding up my code when I develop so it's great to learn about the tools that help you achieve something similar with your SQL queries.
 
 **Link(s) to work**: None for today.
+
+
+### Day 11: Sunday, March 30th, 2019
+
+**Today's Progress**: Yesterday I broke my streak - I only did 30 minutes of the _Vacuuming Postgres Databases_ course, so I didn't log it. Today, I went back to the first guided project - _Storing Storm Data_ and worked through that, building my first database/table from a csv file, which combined all the lessons so far - creating and managing users, creating table schemas with appropriate data types and of course, inserting data from csv files.
+
+**Thoughts**: It was great putting all the learnings so far towards a practical project that solved a problem. I definitely feel pretty comfortable working with Postgres and look forward to using it in future projects with python.
+
+**Link(s) to work**: [Storing Storm Data Project](https://nbviewer.jupyter.org/github/johannesgiorgis/dataquest/blob/master/data_engineer_path/projects/project01_storing_storm_data/project01_storing_storm_data.ipynb)
