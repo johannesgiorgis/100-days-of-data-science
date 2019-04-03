@@ -104,3 +104,12 @@
 **Thoughts**: So far, I have worked with relatively small datasets and Pandas. Understanding what happens under the hood has been eye opening. I look forward to using these learnings when I use Pandas with large datasets.
 
 **Link(s) to work**: None for today.
+
+
+### Day 13: Tuesday, April 2nd, 2019
+
+**Today's Progress**: I started working on the _Practice Optimizing Dataframes and Processing in Chunks_ project.
+
+**Thoughts**: Today, I got the opportunity to putting my learnings in optimizing DataFrames to practice.
+
+**Link(s) to work**: [Practice Optimizing Dataframes and Processing in Chunks](https://nbviewer.jupyter.org/github/johannesgiorgis/dataquest/blob/master/data_engineer_path/projects/project02_practice_optimizing_dataframes_and_processing_in_chunks/project02_practice_optimizing_dataframes_and_processing_in_chunks.ipynb)
