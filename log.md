@@ -113,3 +113,12 @@
 **Thoughts**: Today, I got the opportunity to putting my learnings in optimizing DataFrames to practice.
 
 **Link(s) to work**: [Practice Optimizing Dataframes and Processing in Chunks](https://nbviewer.jupyter.org/github/johannesgiorgis/dataquest/blob/master/data_engineer_path/projects/project02_practice_optimizing_dataframes_and_processing_in_chunks/project02_practice_optimizing_dataframes_and_processing_in_chunks.ipynb)
+
+
+### Day 14: Wednesday, April 3rd, 2019
+
+**Today's Progress**: I completed the _Practice Optimizing Dataframes and Processing in Chunks_ project.
+
+**Thoughts**: Seeing the memory reduction and optimization of datatypes in a dataframe was pretty satisfying. I achieved a **69%** reduction in memory usage by optimizing the column's datatypes - either witching to a more efficient subtype (float64 -> float32) or switching string columns to more appropriate data types (category, float, etc). I can see how useful this would be when we are looking to explore with very large datasets that won't fit fully in memory.
+
+**Link(s) to work**: [Practice Optimizing Dataframes and Processing in Chunks](https://nbviewer.jupyter.org/github/johannesgiorgis/dataquest/blob/master/data_engineer_path/projects/project02_practice_optimizing_dataframes_and_processing_in_chunks/project02_practice_optimizing_dataframes_and_processing_in_chunks.ipynb)
