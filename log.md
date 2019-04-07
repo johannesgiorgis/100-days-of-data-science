@@ -131,3 +131,12 @@
 **Thoughts**: This course covered time and space complexity, profiling and refactoring. Most of the concepts were review for me, yet being applied in new contexts. Lots of great resources to follow up on.
 
 **Link(s) to work**: None for today.
+
+
+### Day 16: Saturday, April 6th, 2019
+
+**Today's Progress**: I completed the _I/O Bound Programs_ course.
+
+**Thoughts**: This course covered how to use threads and memory to speed up I/O bound tasks. Going over threads and how to use them within python was valuable and new to me.
+
+**Link(s) to work**: None for today.
