@@ -140,3 +140,12 @@
 **Thoughts**: This course covered how to use threads and memory to speed up I/O bound tasks. Going over threads and how to use them within python was valuable and new to me.
 
 **Link(s) to work**: None for today.
+
+
+### Day 17: Sunday, April 7th, 2019
+
+**Today's Progress**: I completed the _Overcoming The Limitations Of Threads_ course.
+
+**Thoughts**: This course covered methods to overcome the limitations of threads - multiprocessing, inter-process communication, and worker pools. Another valuable course. Can't wait to implement this in my projects to further deepen my understandings.
+
+**Link(s) to work**: None for today.
