@@ -149,3 +149,12 @@
 **Thoughts**: This course covered methods to overcome the limitations of threads - multiprocessing, inter-process communication, and worker pools. Another valuable course. Can't wait to implement this in my projects to further deepen my understandings.
 
 **Link(s) to work**: None for today.
+
+
+### Day 18: Monday, April 8th, 2019
+
+**Today's Progress**: I completed the _Quickly Analyzing Data With Parallel Processing_ course.
+
+**Thoughts**: This course covered how to use processes and threads to work with large datasets more efficiently. It introduced the MapReduce paradigm by having us work through these types of exercises. Already reached 50% in less than 20 days! Working consistently definitely pays off. I'm very excited to apply these learnings on my own independent projects soon.
+
+**Link(s) to work**: None for today.
