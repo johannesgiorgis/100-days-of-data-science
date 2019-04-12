@@ -158,3 +158,12 @@
 **Thoughts**: This course covered how to use processes and threads to work with large datasets more efficiently. It introduced the MapReduce paradigm by having us work through these types of exercises. Already reached 50% in less than 20 days! Working consistently definitely pays off. I'm very excited to apply these learnings on my own independent projects soon.
 
 **Link(s) to work**: None for today.
+
+
+### Day 19: Thursday, April 11th, 2019
+
+**Today's Progress**: I completed the _Processing Tasks With Stacks And Queues_ course.
+
+**Thoughts**: This course covered applications of stacks and queues comparing the two, which was a nice change from the usual computer science type questions I've usually seen stacks and queues applied to. It took me a several days to wrap my head around the different parts of the course. Even now, I need to come back and further review it to fully understand the applications.
+
+**Link(s) to work**: None for today.
