@@ -167,3 +167,12 @@
 **Thoughts**: This course covered applications of stacks and queues comparing the two, which was a nice change from the usual computer science type questions I've usually seen stacks and queues applied to. It took me a several days to wrap my head around the different parts of the course. Even now, I need to come back and further review it to fully understand the applications.
 
 **Link(s) to work**: None for today.
+
+
+### Day 20: Friday, April 12th, 2019
+
+**Today's Progress**: I worked through part of the _Effectively Using Arrays And Lists_ course.
+
+**Thoughts**: This course deep dives into how lists are implemented in Python, their underlying structure, pros and cons and alternatives (linked lists). This has become very Computer Science heavy with a focus on how to apply these tools to problems.
+
+**Link(s) to work**: None for today.
