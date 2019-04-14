@@ -176,3 +176,12 @@
 **Thoughts**: This course deep dives into how lists are implemented in Python, their underlying structure, pros and cons and alternatives (linked lists). This has become very Computer Science heavy with a focus on how to apply these tools to problems.
 
 **Link(s) to work**: None for today.
+
+
+### Day 21: Saturday, April 13th, 2019
+
+**Today's Progress**: I completed the rest of _Effectively Using Arrays And Lists_, completed _Sorting Arrays And Lists_ and started working on _Searching Arrays And Lists_ course.
+
+**Thoughts**: These courses continue the deep dive into Computer Science fundamentals of data structures, sorting and searching algorithms. It's a good review + a different way of approaching content in the way that DataQuest does it.
+
+**Link(s) to work**: None for today.
