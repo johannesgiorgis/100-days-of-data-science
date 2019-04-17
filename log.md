@@ -194,3 +194,12 @@
 **Thoughts**: This course was a continuation of exploring Computer Science fundamentals - data structures, sorting and searching algorithms. It's a good review + a different way of approaching content in the way that DataQuest does it.
 
 **Link(s) to work**: None for today.
+
+
+### Day 23: Tuesday, April 16th, 2019
+
+**Today's Progress**: I completed the _Hash Tables_ course and start working on the _Overview of Recursion_ course.
+
+**Thoughts**: This course was a continuation of exploring Computer Science fundamentals - data structures, sorting and searching algorithms. It's a good review + a different way of approaching content in the way that DataQuest does it.
+
+**Link(s) to work**: None for today.
