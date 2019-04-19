@@ -209,6 +209,15 @@
 
 **Today's Progress**: I completed the _Overview of Recursion_ course and started working on the _Introduction to Binary Trees_ course.
 
-**Thoughts**: This course was a continuation of exploring Computer Science fundamentals - data structures, sorting and searching algorithms. It's a good review + a different way of approaching content in the way that DataQuest does it. I had to re-do the Binary Trees section as I was struggling through it. Looking forward to continuing to work through the rest of thre trees section.
+**Thoughts**: This course was a continuation of exploring Computer Science fundamentals - data structures, sorting and searching algorithms. It's a good review + a different way of approaching content in the way that DataQuest does it. I had to re-do the Binary Trees section as I was struggling through it. Looking forward to continuing to work through the rest of the trees section.
+
+**Link(s) to work**: None for today.
+
+
+### Day 25: Thursday, April 19th, 2019
+
+**Today's Progress**: I completed the _Introduction to Binary Trees_ course.
+
+**Thoughts**: This course was a continuation of exploring Computer Science fundamentals - data structures, sorting and searching algorithms. It is a good review + a different way of approaching content in the way that DataQuest does it. Again, I had to re-do the Binary Trees section as I continued to struggle through it. Trees has not been my strongest data structures so the extra repetition is helping things sink in further.
 
 **Link(s) to work**: None for today.
