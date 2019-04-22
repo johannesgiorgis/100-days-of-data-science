@@ -214,10 +214,28 @@
 **Link(s) to work**: None for today.
 
 
-### Day 25: Thursday, April 19th, 2019
+### Day 25: Friday, April 19th, 2019
 
 **Today's Progress**: I completed the _Introduction to Binary Trees_ course.
 
 **Thoughts**: This course was a continuation of exploring Computer Science fundamentals - data structures, sorting and searching algorithms. It is a good review + a different way of approaching content in the way that DataQuest does it. Again, I had to re-do the Binary Trees section as I continued to struggle through it. Trees has not been my strongest data structures so the extra repetition is helping things sink in further.
 
 **Link(s) to work**: None for today.
+
+
+### Day 26: Saturday, April 20th, 2019
+
+**Today's Progress**: I started working on the _Analyzing Startup Fundraising Deals from Crunchbase_ project.
+
+**Thoughts**: I went back and started working on a project I had skipped earlier. It was a deeper dive into using pandas in chunks along with SQLite to store the data and then further explore it. I had forgotten to log my work today so logging it in the next day.
+
+**Link(s) to work**: [Analyzing Startup Fundraising Deals from Crunchbase](https://nbviewer.jupyter.org/github/johannesgiorgis/dataquest/blob/master/data_engineer_path/projects/project03_analyzing_startup_fundraising_deals_from_crunchbase/project03_analyzing_startup_fundraising_deals_from_crunchbase.ipynb)
+
+
+### Day 27: Sunday, April 21st, 2019
+
+**Today's Progress**: I continued working on the _Analyzing Startup Fundraising Deals from Crunchbase_ project.
+
+**Thoughts**: My work of exploring the data and finding ways to optimize the types continued today. Lots of referencing the previous project to do similar work. I got to the point where I am ready to load it into a SQLite database.
+
+**Link(s) to work**: [Analyzing Startup Fundraising Deals from Crunchbase](https://nbviewer.jupyter.org/github/johannesgiorgis/dataquest/blob/master/data_engineer_path/projects/project03_analyzing_startup_fundraising_deals_from_crunchbase/project03_analyzing_startup_fundraising_deals_from_crunchbase.ipynb)
